@@ -3,3 +3,4 @@ print(person["first_name"])
 print(person["last_name"])
 print(person["age"])
 print(person["city"])
+person = {"first_name": "John1", "last_name": "Doe", "age": 30, "city": "New York"}
