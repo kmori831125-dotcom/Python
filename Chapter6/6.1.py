@@ -3,3 +3,7 @@ print(person["first_name"])
 print(person["last_name"])
 print(person["age"])
 print(person["city"])
+print(person["first_name"])
+print(person["city"])
+print(person["city"])
+
